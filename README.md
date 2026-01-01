@@ -1,9 +1,10 @@
-12/31/2025
-CURRENT VERSION IS version-f8f53a67efca4c34
-- REMOVED POPUP LINKS
-- REMOVED KEY SYSTEM
-- EVERYTHING ELSE IS THE SAME I JUST CHANGED THESE TWO THINGS.
+12/31/2025 — Current Version: version-f8f53a67efca4c34
 
-GO TO RELEASES TAB TO DOWNLOADED THE LATEST VERSION OF THE EXTERNAL.
+-✅ Popup links removed
 
-I WILL PUBLISH NEW VERSIONS AS SOON AS THEY UPDATE ALSO WHEN I HAVE TIME TOO ENYOJ FOR NOW ;)
+-✅ Key system removed
+
+Everything else remains the same — only these two changes were made.
+Head over to the Releases tab to download the latest version of the external.
+
+I’ll keep publishing new versions as soon as updates drop (and whenever I get the time). Enjoy for now! 😉
